@@ -1,4 +1,3 @@
-the project is about tomasulo-algorithm
 Tomasulo算法是一種動態調度技術，用於提高CPU執行效率，解決指令級並行性中的依賴問題。
 
 主要以三個不同的function去處理，分別為issue, Execute, WriteResult
